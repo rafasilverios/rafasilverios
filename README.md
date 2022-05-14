@@ -1,10 +1,5 @@
 ### Olá, eu sou o Rafael Silverio
 
-
-**rafasilverios/rafasilverios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Trabalhando com Desenvolvimento Android (JAVA)
 - 🌱 Cursando Engenharia de Software
 - 🏠 Curitiba/PR
