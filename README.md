@@ -1,6 +1,6 @@
 ### Olá, eu sou o Rafael Silverio
 
-- 🔭 Trabalhando com Desenvolvimento Android (JAVA)
+- 🔭 Trabalho com Desenvolvimento Android (JAVA)
 - 🌱 Cursando Engenharia de Software
 - 🏠 Curitiba/PR
 
