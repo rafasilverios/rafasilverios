@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rafael Silverio
 
-- 🔭 Trabalho com Desenvolvimento Android (JAVA)
-- 🌱 Cursando Engenharia de Software
+- 🔭 Procurando novas oportunidades | Android (JAVA) | Web JavaScript
+- 🌱 Cursando Engenharia de Software (Graduação) | Engenheiro Front-End (Curso EBAC)
 - 🏠 Curitiba/PR
 
 <div align="center">
